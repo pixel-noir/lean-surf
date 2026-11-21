@@ -26,7 +26,7 @@ Every one of those results **stays in context and is re-sent on every later turn
 
 |  | Default agent | **lean-surf** |
 |---|---|---|
-| Public page, read-only | opens a browser | **`curl` / fetch / API** |
+| Public page, read-only | opens a browser | **API / WebFetch, no browser** |
 | Long browsing task | in the main context | **subagent, returns only the answer** |
 | Reading a page | full tree or full text | **`find` or 5 lines of JS** |
 | Screenshots | after every click | **only when visual, at `scale: 0.4`** |

@@ -26,7 +26,7 @@ Chacun de ces résultats **reste dans le contexte et est renvoyé à chaque tour
 
 |  | Agent par défaut | **lean-surf** |
 |---|---|---|
-| Page publique, lecture seule | ouvre un navigateur | **`curl` / fetch / API** |
+| Page publique, lecture seule | ouvre un navigateur | **API / WebFetch, sans navigateur** |
 | Longue tâche de navigation | dans le contexte principal | **sous-agent, ne renvoie que la réponse** |
 | Lire une page | arbre ou texte complet | **`find` ou 5 lignes de JS** |
 | Captures d'écran | après chaque clic | **seulement si c'est visuel, à `scale: 0.4`** |
