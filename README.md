@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/version-1.0.0-c8321e?style=flat-square" alt="version 1.0.0">
   <img src="https://img.shields.io/badge/Claude_Code-plugin-5b554b?style=flat-square" alt="Claude Code plugin">
   <img src="https://img.shields.io/badge/Agent_Skill-SKILL.md-2f6b3a?style=flat-square" alt="Agent Skill">
+  <a href="https://paypal.me/BEMahdi"><img src="https://img.shields.io/badge/buy_me_a_coffee-PayPal-5b554b?style=flat-square&logo=paypal&logoColor=white" alt="Buy me a coffee"></a>
 </p>
 
 <p align="center">
@@ -120,6 +121,10 @@ Switch levels with `lean-surf lite`, `lean-surf full` or `lean-surf ultra`.
 > - a screenshot when you ask to see the page
 > - sign-in walls, CAPTCHAs, credentials and payments go to you
 > - a report of what wasn't checked or couldn't load
+
+## Support
+
+If this project helped you, [buy me a coffee ☕️](https://paypal.me/BEMahdi).
 
 ## License
 

@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/version-1.0.0-c8321e?style=flat-square" alt="version 1.0.0">
   <img src="https://img.shields.io/badge/Claude_Code-plugin-5b554b?style=flat-square" alt="Plugin Claude Code">
   <img src="https://img.shields.io/badge/Agent_Skill-SKILL.md-2f6b3a?style=flat-square" alt="Agent Skill">
+  <a href="https://paypal.me/BEMahdi"><img src="https://img.shields.io/badge/buy_me_a_coffee-PayPal-5b554b?style=flat-square&logo=paypal&logoColor=white" alt="Buy me a coffee"></a>
 </p>
 
 <p align="center">
@@ -120,6 +121,10 @@ Change de niveau avec `lean-surf lite`, `lean-surf full` ou `lean-surf ultra`.
 > - une capture quand tu demandes à voir la page
 > - les murs de connexion, CAPTCHA, identifiants et paiements te reviennent
 > - un compte rendu de ce qui n'a pas été vérifié ou n'a pas pu charger
+
+## Soutenir
+
+Si ce projet t'a aidé, [offre-moi un café ☕️](https://paypal.me/BEMahdi).
 
 ## Licence
 
