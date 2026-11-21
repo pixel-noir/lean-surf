@@ -1,0 +1,13 @@
+{
+  "name": "lean-surf",
+  "version": "1.0.0",
+  "description": "Token-lean web browsing for agents: cheapest tool first, subagent delegation, surgical page reads, rare and small screenshots.",
+  "author": {
+    "name": "pixel-noir",
+    "url": "https://github.com/pixel-noir"
+  },
+  "homepage": "https://github.com/pixel-noir/lean-surf",
+  "repository": "https://github.com/pixel-noir/lean-surf",
+  "license": "MIT",
+  "keywords": ["browser", "chrome", "playwright", "tokens", "context", "screenshots"]
+}

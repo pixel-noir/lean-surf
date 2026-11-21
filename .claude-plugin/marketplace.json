@@ -1,0 +1,16 @@
+{
+  "name": "lean-surf",
+  "description": "Token-lean web browsing for agents.",
+  "owner": {
+    "name": "pixel-noir",
+    "url": "https://github.com/pixel-noir"
+  },
+  "plugins": [
+    {
+      "name": "lean-surf",
+      "source": "./",
+      "description": "Cuts the tokens an agent burns while browsing, without skipping the checks that matter.",
+      "version": "1.0.0"
+    }
+  ]
+}
